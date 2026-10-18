@@ -1,6 +1,8 @@
 # Détecter des faux billets avec le Machine Learning
 Projet 12 OpenClassrooms
-<img src> = presentation/P12_ML_confusion_matrix.png height = 100
+
+
+<img src> = presentation/P12_ML_confusion_matrix.png height = 10
 ![](presentation/P12_ML_confusion_matrix.png)
 
 #### Contexte et démarche
