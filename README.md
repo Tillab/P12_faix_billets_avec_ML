@@ -1,6 +1,6 @@
 # Détecter des faux billets avec le Machine Learning
 Projet 12 OpenClassrooms
-
+<img src> presentation/P12_ML_confusion_matrix.png
 ![](presentation/P12_ML_confusion_matrix.png)
 
 #### Contexte et démarche
