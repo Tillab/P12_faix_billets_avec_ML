@@ -1,14 +1,14 @@
 # Détecter des faux billets avec le Machine Learning
 Projet 12 OpenClassrooms
 
-<img src = presentation/P12_ML_confusion_matrix.png height = 300 >
-
-
 ### Contexte et démarche
 L’Organisation nationale de lutte contre le faux-monnayage (ONCFM, organisation fictive) cherche à améliorer l’identification des faux billets. À partir d’un jeu de données de 1 500 billets scannés, dont l’authenticité était connue, j’ai entraîné et évalué plusieurs algorithmes de Machine Learning afin d’identifier l’approche la plus adaptée à cette tâche.
 
 ### Résultats et impact
 Les algorithmes testés — régression logistique, K-means, K plus proches voisins, Random Forest et réseau de neurones — ont obtenu de bons résultats sur le jeu de données disponible. J’ai retenu la régression logistique pour sa simplicité et son interprétabilité, puis je l’ai utilisée pour prédire l’authenticité de billets dans un jeu de données distinct.
+
+<img src = presentation/P12_ML_confusion_matrix.png height = 300 >
+
 
 **Compétences :** Python (pandas, scikit-learn), algorithmes de Machine Learning, évaluation de modèles.
 
